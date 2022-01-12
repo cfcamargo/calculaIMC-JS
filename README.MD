@@ -35,16 +35,8 @@
 
 - Aqui o app exibe um modal com o IMC do user e uma frase personalizada de acordo com seu IMC,
 - Esta frase tambem recebe classes dinamicas, pois de acordo com o nivel do IMC ela muda de cor
-<<<<<<< HEAD
+  <br/>
 - ![Alt text](/screenshots/modal-normel.png "Optional Title")
 
 - Neste caso por exemplo onde o paciente tem o IMC com grau de obesidade, a frase fica vermelha como sinal de Perigo
 - ![Alt text](/screenshots/modal-danger.png "Optional Title")
-=======
-  
-- ![Alt text](/screenshots/modal-normal.png "Optional Title")
-
-- Neste caso por exemplo onde o paciente tem o IMC com grau de obesidade, a frase fica vermelha como sinal de Perigo
- 
-- ![Alt text](/screenshots/modal-danger.png "Optional Title")
->>>>>>> b9c7390963a8a174649f6c97de4a770bee948ca0
