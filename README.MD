@@ -42,7 +42,7 @@
 - ![Alt text](/screenshots/modal-danger.png "Optional Title")
 =======
   
-- ![Alt text](/screenshots/modal-normel.png "Optional Title")
+- ![Alt text](/screenshots/modal-normal.png "Optional Title")
 
 - Neste caso por exemplo onde o paciente tem o IMC com grau de obesidade, a frase fica vermelha como sinal de Perigo
  
